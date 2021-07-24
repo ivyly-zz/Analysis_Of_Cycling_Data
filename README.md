@@ -1,13 +1,9 @@
 # DataScience-analysis-of-cycling-data
 
-This repository contains 3 portfolio projects for COMP2200/COMP6200 for Session S2-2020 @ Macquarie University.
-
-## 1. Portfolio 1:
-
-### Goal: 
+## Goal: 
 Analysis of CSV data for cycling, with GoldenCheetah, Strava data sets from Strava and GoldenCheetah applications, as well as weather data from Bureau of Meterology. (Combining those rows of data that appear in both data frames so that a dataframe  with 243 observations and 372 features/ variables)
 
-### This project explores: 
+## This project explores: 
 
 The distributions of some key variables, such as time, distance, average speed, average power, and TSS;
 
